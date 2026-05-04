@@ -1,5 +1,5 @@
 # RAG-LLM-Chatbot
-Task for RAG LLM-Chatbot for AI-d. Mostlyon data preprocessing
+Task for RAG LLM-Chatbot for AI-d. Mostly on data preprocessing
 
 Build a pipeline that ingests Ai-D documents, chunks them appropriately, generates embeddings, and upserts into the vector store.
 
