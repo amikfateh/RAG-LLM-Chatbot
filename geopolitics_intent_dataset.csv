@@ -1,0 +1,91 @@
+text,intent,language,paraphrase_group
+Is there any war happening right now?,war_update,en,1
+Ada perang sekarang ke?,war_update,ms,1
+Any latest conflict news sekarang?,war_update,mix,1
+Which countries are in conflict currently?,war_update,en,2
+Negara mana tengah berperang sekarang?,war_update,ms,2
+Countries involved in war sekarang apa?,war_update,mix,2
+Any updates on Ukraine war?,war_update,en,3
+Apa perkembangan perang Ukraine?,war_update,ms,3
+Ukraine war latest news ada tak?,war_update,mix,3
+Is there a defense alert in my region?,defense_alert,en,4
+Ada amaran pertahanan kat kawasan saya ke?,defense_alert,ms,4
+Any defense alert dekat sini sekarang?,defense_alert,mix,4
+Are we under any military threat?,defense_alert,en,5
+Kita ada ancaman tentera ke sekarang?,defense_alert,ms,5
+Got military threat dekat negara kita?,defense_alert,mix,5
+Any missile warning issued recently?,defense_alert,en,6
+Ada amaran peluru berpandu ke baru-baru ni?,defense_alert,ms,6
+Missile alert ada keluar tak lately?,defense_alert,mix,6
+What is the current geopolitical situation?,geopolitics_analysis,en,7
+Apa situasi geopolitik sekarang?,geopolitics_analysis,ms,7
+Current geopolitics macam mana sekarang?,geopolitics_analysis,mix,7
+Why are tensions rising between countries?,geopolitics_analysis,en,8
+Kenapa ketegangan antara negara makin meningkat?,geopolitics_analysis,ms,8
+Why tension negara-negara makin naik sekarang?,geopolitics_analysis,mix,8
+Explain the conflict between major powers,geopolitics_analysis,en,9
+Terangkan konflik antara kuasa besar dunia,geopolitics_analysis,ms,9
+Explain conflict between big countries sekarang,geopolitics_analysis,mix,9
+Is there a risk of world war?,risk_assessment,en,10
+Ada risiko perang dunia ke?,risk_assessment,ms,10
+World war risk tinggi tak sekarang?,risk_assessment,mix,10
+How likely is escalation to global conflict?,risk_assessment,en,11
+Kemungkinan konflik jadi global tinggi ke?,risk_assessment,ms,11
+Chance conflict escalate jadi world war?,risk_assessment,mix,11
+Should we be worried about war spreading?,risk_assessment,en,12
+Perlu risau perang akan merebak tak?,risk_assessment,ms,12
+War spreading ni serious ke?,risk_assessment,mix,12
+What is the latest military news?,military_news,en,13
+Apa berita tentera terkini?,military_news,ms,13
+Latest military update apa sekarang?,military_news,mix,13
+Any updates on defense operations?,military_news,en,14
+Ada update operasi pertahanan ke?,military_news,ms,14
+Defense operation latest news ada?,military_news,mix,14
+Which country increased military activity?,military_news,en,15
+Negara mana tingkatkan aktiviti tentera?,military_news,ms,15
+Country mana increase military activity lately?,military_news,mix,15
+What is happening in Iran war now?,iran_war_update,en,16
+Apa jadi dengan perang Iran sekarang?,iran_war_update,ms,16
+Iran war latest update apa sekarang?,iran_war_update,mix,16
+Who is fighting in the Iran war?,iran_war_update,en,17
+Siapa terlibat dalam perang Iran?,iran_war_update,ms,17
+Iran war involve siapa sebenarnya?,iran_war_update,mix,17
+Any updates on US and Iran conflict?,iran_war_update,en,18
+Ada update konflik US dengan Iran?,iran_war_update,ms,18
+US Iran conflict latest news ada tak?,iran_war_update,mix,18
+Is Iran attacking ships in Hormuz?,iran_hormuz,en,19
+Iran ada serang kapal dekat Hormuz ke?,iran_hormuz,ms,19
+Hormuz attack Iran buat ke sekarang?,iran_hormuz,mix,19
+Why is Strait of Hormuz important?,iran_hormuz,en,20
+Kenapa Selat Hormuz penting?,iran_hormuz,ms,20
+Hormuz ni kenapa penting sangat?,iran_hormuz,mix,20
+Is Iran blocking oil routes?,iran_hormuz,en,21
+Iran sekat laluan minyak ke?,iran_hormuz,ms,21
+Iran block oil route ke sekarang?,iran_hormuz,mix,21
+Is there risk of war escalation with Iran?,iran_risk,en,22
+Ada risiko perang Iran jadi lebih besar ke?,iran_risk,ms,22
+Iran war boleh escalate jadi global ke?,iran_risk,mix,22
+Could Iran war trigger world war?,iran_risk,en,23
+Perang Iran boleh cetus perang dunia ke?,iran_risk,ms,23
+Iran war trigger world war ke?,iran_risk,mix,23
+How serious is Iran military threat?,iran_risk,en,24
+Sejauh mana ancaman tentera Iran?,iran_risk,ms,24
+Iran military threat serious ke sekarang?,iran_risk,mix,24
+Why did US and Israel attack Iran?,iran_geopolitics,en,25
+Kenapa US dan Israel serang Iran?,iran_geopolitics,ms,25
+Why US Israel attack Iran sebenarnya?,iran_geopolitics,mix,25
+What is Iran's goal in this war?,iran_geopolitics,en,26
+Apa matlamat Iran dalam perang ni?,iran_geopolitics,ms,26
+Iran objective dalam war ni apa?,iran_geopolitics,mix,26
+Explain Iran vs Israel conflict,iran_geopolitics,en,27
+Terangkan konflik Iran dengan Israel,iran_geopolitics,ms,27
+Explain Iran Israel conflict sekarang,iran_geopolitics,mix,27
+Any missile attacks from Iran recently?,iran_military,en,28
+Ada serangan peluru berpandu Iran ke baru ni?,iran_military,ms,28
+Iran missile attack ada berlaku ke?,iran_military,mix,28
+Is Iran using drones in war?,iran_military,en,29
+Iran guna drone dalam perang ke?,iran_military,ms,29
+Iran pakai drone attack ke sekarang?,iran_military,mix,29
+Which countries support Iran?,iran_military,en,30
+Negara mana sokong Iran?,iran_military,ms,30
+Siapa ally Iran dalam war ni?,iran_military,mix,30
